@@ -1,1 +1,4 @@
-[Matteo Vaccari](http://matteo.vaccari.name/blog/)'s Birthday Greetings Refactoring Kata step by step solution for [Barcelona Software Craftsmanship Event February 2014](http://www.meetup.com/Barcelona-Software-Craftsmanship/events/161798152/)
+## Birthday Greetings Kata
+
+[Matteo Vaccari](http://matteo.vaccari.name/blog/)'s Birthday Greetings Refactoring Kata initial code.
+
